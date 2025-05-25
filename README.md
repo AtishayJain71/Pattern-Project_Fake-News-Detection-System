@@ -1,6 +1,16 @@
 # 📰 Fake News Detection Platform
 
-An interactive web-based platform to detect fake news using **Decision Tree** and **Logistic Regression** models. Powered by **Flask**, it allows users to enter news content and instantly check its authenticity.
+## 👥 Team Members
+
+**Atishay Jain**  
+SAP ID: 500107843  
+B.Tech CSE AIML NH  
+Batch 1  
+
+**Shikhar Bhakuni**  
+SAP ID: 500107660  
+B.Tech CSE AIML NH  
+Batch 1  
 
 ---
 
